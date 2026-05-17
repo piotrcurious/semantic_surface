@@ -1,7 +1,7 @@
 #ifndef LED_CONTROL_H
 #define LED_CONTROL_H
 
-#include "semantic_surface.h"
+#include <semantic_surface/semantic_surface.h>
 
 namespace SemanticSurface {
 

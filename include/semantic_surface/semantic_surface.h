@@ -1,7 +1,7 @@
 #ifndef SEMANTIC_SURFACE_H
 #define SEMANTIC_SURFACE_H
 
-#include "Arduino.h"
+#include <Arduino.h>
 #include <external/ArduinoJson.h>
 #include <vector>
 #include <memory>

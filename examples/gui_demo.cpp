@@ -1,6 +1,6 @@
-#include "../mock_arduino/Arduino.h"
-#include "../include/semantic_surface/semantic_surface.h"
-#include "../include/semantic_surface/led_control.h"
+#include <Arduino.h>
+#include <semantic_surface/semantic_surface.h>
+#include <semantic_surface/led_control.h>
 
 using namespace SemanticSurface;
 
